@@ -51,7 +51,7 @@ public class BaseClass {
 	public void closeBowser()
 	{
 		driver.close();
-		System.out.println("Bowser Close successfully");
+		System.out.println("Bowser Closed successfully");
 	}
 	
 
